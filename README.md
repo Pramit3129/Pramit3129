@@ -5,48 +5,77 @@
 <h1 align="center">Hey, I'm Pramit 👋</h1>
 
 <p align="center">
-  <b>Full-Stack GenAI Engineer • Agentic Systems • Competitive Programmer (Java)</b>
+  <b>Full-Stack GenAI Engineer • Agentic Systems • Distributed Backend • Competitive Programmer (Java)</b>
 </p>
 
 <p align="center">
-  Building scalable, production-grade AI systems — not demos.
+  I build <b>scalable, production-grade AI systems</b> — not demos.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Full-stack **GenAI engineer** focused on **real-world, production systems**
-- 🧠 Work across **LLMs, RAG, embeddings, agents, APIs, and backend architecture**
-- ⚙️ Strong systems thinking with a **competitive programming background (Java)**
-- 🏗️ Love designing **end-to-end products**, from infra to UX
-- 📈 Optimized for **performance, scalability, and correctness**
+* 🚀 Full-stack **GenAI Engineer** building real-world AI products
+* 🧠 Work across **LLMs, RAG pipelines, embeddings, agents, and system design**
+* ⚙️ Strong foundation in **DSA + competitive programming (Java)**
+* 🏗️ Design **end-to-end systems** (backend + infra + AI + frontend)
+* 📈 Focused on **performance, scalability, and reliability**
+* 🔥 Currently building **agentic AI systems & multi-agent architectures**
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 Tech Stack
 
-### Core
+### 💻 Core Languages
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,c" height="40" />
 </div>
 
-### Frontend
+---
+
+### 🎨 Frontend
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite,threejs" height="40" />
 </div>
 
-### Backend & APIs
+---
+
+### ⚙️ Backend & APIs
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,mongodb" height="40" />
 </div>
 
-### AI / Data / Infra
+---
+
+## ⚙️ Systems & Infrastructure
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis,kafka,aws,gcp,docker" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" height="40"/>
 </div>
+
+---
+
+## 🏗️ Engineering Highlights
+
+* Designed **multi-agent AI systems** with real-time orchestration
+* Built **RAG pipelines** with vector search + embedding optimization
+* Implemented **event-driven architectures** using Kafka & Pub/Sub
+* Developed **voice AI systems** (TTS + streaming + low-latency pipelines)
+
+---
+
+## 🚀 What I Build
+
+* 🧠 AI Agents (multi-agent orchestration)
+* 🔍 RAG systems with vector search
+* 🎙️ Voice AI systems (TTS + conversational agents)
+* ⚡ Real-time distributed systems
+* 📊 Backend-heavy scalable platforms
 
 ---
 
